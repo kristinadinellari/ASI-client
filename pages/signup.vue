@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="login-register-container">
+    <div class="register-container">
       <div class="rregjistrimi register-page-container">
         <div class="tabs-container">
           <h1>ASI-CLIENT</h1>
