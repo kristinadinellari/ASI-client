@@ -13,6 +13,7 @@
             <input type="password" placeholder="Password">
             <input type="password" placeholder="ConfirmPassword">
             <select>
+
               <option value="">Zgjidh</option>
               <option value="FrontEnd">1. FrontEnd</option>
               <option value="BackEnd">2. BackEnd</option>
