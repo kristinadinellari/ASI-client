@@ -1,0 +1,30 @@
+.sidenav {
+  height: 100%;
+  width: 235px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 30px;
+
+  h1{
+    padding: 10px 8px 30px 49px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+
+  a {
+    padding: 6px 8px 21px 27px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    font-size: 22px;
+  }
+
+}
+

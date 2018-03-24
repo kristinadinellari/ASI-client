@@ -16,6 +16,9 @@ module.exports = {
   css: [
     '~/assets/sass/objects.scss',
     '~/assets/sass/signup.scss',
+    '~/assets/sass/sidebar.scss',
+    '~/assets/sass/yourprojects.scss',
+    '~/assets/sass/task.scss',
   ],
   /*
   ** Customize the progress bar color
